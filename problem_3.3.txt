@@ -1,0 +1,9 @@
+
+Add substract, multiply, and divide mehtods to the fraction 
+class (section 3.8). Also, add two more constructors. One
+of the constructor will have no parameters; it initializes the
+fraction to 0/1. The other constructor will have one parameter,
+representing the numerator of the fraction; the denominator will
+be 1. Write a test fraction class that creates two Fraction objects
+and tests the behavior of all constructor and instance methods
+in the Fraction class.
